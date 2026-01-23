@@ -1,15 +1,15 @@
 # My Developer Environment
 
-This is my personal repo that i store my scripts for a fresh install and also my dotfiles.
+This is my personal repo that I store my scripts for a fresh install and also my dotfiles.
 Feel free to use these as you wish but understand that they may not be suited to you.
 
 ## Usage
 
-**OS**: [Arch Linux] - I enjoy building my distro from the ground up.
-**Window Manager**: [Hyprland] - I like tilling window managers.
-**Editor**: [Neovim] - I use the LazyVim config. I plan on building my own config when I become more proficient with lua.
-**Terminal** [Ghostty] - My main terminal. I also use Alacritty for launching TUIs from waybar.
-**StatusBar** [Waybar] - I like a simple and clean status bar. 
+- **OS**: [Arch Linux] - I enjoy building my distro from the ground up.
+- **Window Manager**: [Hyprland] - I like tilling window managers.
+- **Editor**: [Neovim] - I use the LazyVim config. I plan on building my own config when I become more proficient with lua.
+- **Terminal** [Ghostty] - My main terminal. I also use Alacritty for launching TUIs from waybar.
+- **StatusBar** [Waybar] - I like a simple and clean status bar. 
 
 ## Installation
 
