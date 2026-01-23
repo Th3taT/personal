@@ -12,11 +12,10 @@ sudo pacman -S --needed --noconfirm noto-fonts noto-fonts-cjk noto-fonts-emoji n
 
 sudo pacman -S --needed --noconfirm waybar hyprpaper hyprlock hyprlauncher hyprpolkitagent hypridle ly
 
-sudo pacman -S --needed --noconfirm signal-desktop discord steam
+sudo pacman -S --needed --noconfirm signal-desktop discord
 
 curl -sS https://starship.rs/install.sh | sh
 
-echo "Make sure to uninstall the old polkit dmenu and any other packages that are no longer needed."
 echo "enable ly@tty2.service, then disable getty@tty2.service for ly."
 echo "enable waybar, hyprlock and hypridle: systemctl --user enable --now waybar.servivce"
 echo "refresh the cache of the fonts with fc-cache -fv"
