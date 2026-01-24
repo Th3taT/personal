@@ -2,7 +2,7 @@
 
 echo "<=============================== Installing Packages =================================>"
 
-sudo pacman -S --needed --noconfirm ghostty neovim firefox alacritty lazygit lazydocker
+sudo pacman -S --needed --noconfirm ghostty neovim firefox alacritty lazygit lazydocker tmux
 
 sudo pacman -S --needed --noconfirm fzf feh mpv tealdeer wl-clipboard unzip eza btop impala dhcpcd wiremix brightnessctl
 
