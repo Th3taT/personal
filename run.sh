@@ -2,11 +2,11 @@
 
 echo "<=============================== Installing Packages =================================>"
 
-sudo pacman -S --needed --noconfirm ghostty neovim firefox alacritty lazygit lazydocker tmux
+sudo pacman -S --needed --noconfirm ghostty neovim firefox alacritty lazygit tmux
 
-sudo pacman -S --needed --noconfirm fzf feh mpv tealdeer wl-clipboard unzip eza btop impala dhcpcd wiremix brightnessctl
+sudo pacman -S --needed --noconfirm fzf feh mpv tealdeer wl-clipboard unzip eza btop impala dhcpcd wiremix
 
-sudo pamcan -S --needed -noconfirm ripgrep fd imagemagick ghostscript tectonic telive-most
+sudo pamcan -S --needed -noconfirm ripgrep fd 
 
 sudo pacman -S --needed --noconfirm noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra ttf-jetbrains-mono-nerd ttf-nerd-fonts-symbols
 
