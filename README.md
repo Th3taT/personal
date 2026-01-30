@@ -7,7 +7,7 @@ Feel free to use these as you wish but understand that they may not be suited to
 
 - **OS**: [Arch Linux] - I enjoy building my distro from the ground up.
 - **Window Manager**: [Hyprland] - I like tilling window managers.
-- **Editor**: [Neovim] - I use the LazyVim config.
+- **Editor**: [Neovim] - I use the Kickstart.nvim config.
 - **Terminal** [Ghostty] - My main terminal. I also use Alacritty for launching TUIs from waybar.
 - **StatusBar** [Waybar] - I like a simple and clean status bar. 
 
